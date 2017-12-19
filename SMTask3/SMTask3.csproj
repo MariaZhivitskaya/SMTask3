@@ -43,6 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EmpiricalDistributionFunction.cs" />
+    <Compile Include="EvenDistribution.cs" />
+    <Compile Include="EvenDistributionFunction.cs" />
+    <Compile Include="ExponentialDistribution.cs" />
+    <Compile Include="AbstractGenerator.cs" />
+    <Compile Include="ExponentialDistributionFunction.cs" />
+    <Compile Include="Handler.cs" />
+    <Compile Include="IDistributionFunction.cs" />
+    <Compile Include="IGenerator.cs" />
+    <Compile Include="MultiplicativeCongruentialMethod.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
